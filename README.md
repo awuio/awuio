@@ -16,6 +16,8 @@ Front end developer
 <a href="https://www.github.com/awuio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/awuio?logo=github&style=for-the-badge&color=ffffff&labelColor=134e4a" /></a>
 
+![](https://komarev.com/ghpvc/?username=awuio&color=green)
+
 ### Badges
 
 <b>My GitHub Stats</b>
