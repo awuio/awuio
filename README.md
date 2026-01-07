@@ -16,3 +16,20 @@ src="https://img.shields.io/github/followers/awuio?logo=github&style=for-the-bad
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/awuio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=awuio&stroke=ffffff&background=134e4a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=awuio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=awuio&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awuio/awuio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awuio/awuio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/awuio/awuio/output/pacman-contribution-graph.svg">
+</picture>
+
+###
